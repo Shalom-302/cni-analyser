@@ -75,7 +75,7 @@ Exemple de structure :
 """
 
     prompt = f"""
-Analyse l'image d'un document de type "CNI". Ce document est une Carte Nationale d'Identité.
+Analyse les images (recto et verso) de type "CNI". Ce document est une Carte Nationale d'Identité.
 
 **Structure du document:**
 Le document contient généralement :
